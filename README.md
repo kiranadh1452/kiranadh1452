@@ -16,3 +16,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranadh1452&show_icons=true&locale=en" alt="kiranadh1452" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranadh1452&" alt="kiranadh1452" /></p>
+
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=kiranadh1452)](https://github.com/ryo-ma/github-profile-trophy)
+--!>
+
